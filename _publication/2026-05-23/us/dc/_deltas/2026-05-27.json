@@ -1,0 +1,1311 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "effective",
+      "url": "/dclaws/26/permanent/effective",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "docs_changes": {
+        "D.C. Law 26-113": "Element added",
+        "D.C. Law 26-114": "Element added",
+        "D.C. Law 26-115": "Element added",
+        "D.C. Law 26-116": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "pending",
+      "url": "/dclaws/26/permanent/pending",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|pending|",
+      "docs_changes": {
+        "D.C. Act 26-276": "Element removed",
+        "D.C. Act 26-277": "Element removed",
+        "D.C. Act 26-283": "Element removed",
+        "D.C. Act 26-284": "Element removed"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "effective",
+      "url": "/dclaws/26/temporary/effective",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "docs_changes": {
+        "D.C. Law 26-117": "Element added",
+        "D.C. Law 26-118": "Element added",
+        "D.C. Law 26-119": "Element added",
+        "D.C. Law 26-120": "Element added",
+        "D.C. Law 26-121": "Element added",
+        "D.C. Law 26-122": "Element added",
+        "D.C. Law 26-123": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "pending",
+      "url": "/dclaws/26/temporary/pending",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "docs_changes": {
+        "D.C. Act 26-278": "Element removed",
+        "D.C. Act 26-279": "Element removed",
+        "D.C. Act 26-280": "Element removed",
+        "D.C. Act 26-285": "Element removed",
+        "D.C. Act 26-286": "Element removed",
+        "D.C. Act 26-287": "Element removed",
+        "D.C. Act 26-289": "Element removed"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "D.C. Act 26-276",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/dc/council/acts/26-276",
+      "doc_mpath": "D.C. Act 26-276|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-277",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/dc/council/acts/26-277",
+      "doc_mpath": "D.C. Act 26-277|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-278",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/dc/council/acts/26-278",
+      "doc_mpath": "D.C. Act 26-278|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-279",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/dc/council/acts/26-279",
+      "doc_mpath": "D.C. Act 26-279|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-280",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/dc/council/acts/26-280",
+      "doc_mpath": "D.C. Act 26-280|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-283",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/dc/council/acts/26-283",
+      "doc_mpath": "D.C. Act 26-283|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-284",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/dc/council/acts/26-284",
+      "doc_mpath": "D.C. Act 26-284|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-285",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/dc/council/acts/26-285",
+      "doc_mpath": "D.C. Act 26-285|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-286",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/dc/council/acts/26-286",
+      "doc_mpath": "D.C. Act 26-286|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-287",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/dc/council/acts/26-287",
+      "doc_mpath": "D.C. Act 26-287|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-289",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element removed"
+      ],
+      "url": "/us/dc/council/acts/26-289",
+      "doc_mpath": "D.C. Act 26-289|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a71-328.04",
+      "ptag": "section",
+      "cite": "\u00a7 1-328.04",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/1-328.04",
+      "doc_mpath": "D.C. Code|1|3|XII-A|A|1-328.04|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a72-1212.01",
+      "ptag": "section",
+      "cite": "\u00a7 2-1212.01",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/2-1212.01",
+      "doc_mpath": "D.C. Code|2|12|VI-A|A|2-1212.01|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a731-2231.20a",
+      "ptag": "section",
+      "cite": "\u00a7 31-2231.20a",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/31-2231.20a",
+      "doc_mpath": "D.C. Code|31|22A|31-2231.20a|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a732-541.07",
+      "ptag": "section",
+      "cite": "\u00a7 32-541.07",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/32-541.07",
+      "doc_mpath": "D.C. Code|32|5|IV|32-541.07|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a734-1506.02",
+      "ptag": "section",
+      "cite": "\u00a7 34-1506.02",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/34-1506.02",
+      "doc_mpath": "D.C. Code|34|15|34-1506.02|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a737-131.01",
+      "ptag": "section",
+      "cite": "\u00a7 37-131.01",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/37-131.01",
+      "doc_mpath": "D.C. Code|37|1A|37-131.01|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a737-131.02",
+      "ptag": "section",
+      "cite": "\u00a7 37-131.02",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/37-131.02",
+      "doc_mpath": "D.C. Code|37|1A|37-131.02|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a737-131.03",
+      "ptag": "section",
+      "cite": "\u00a7 37-131.03",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/37-131.03",
+      "doc_mpath": "D.C. Code|37|1A|37-131.03|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a737-131.06",
+      "ptag": "section",
+      "cite": "\u00a7 37-131.06",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/37-131.06",
+      "doc_mpath": "D.C. Code|37|1A|37-131.06|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a737-131.07",
+      "ptag": "section",
+      "cite": "\u00a7 37-131.07",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/37-131.07",
+      "doc_mpath": "D.C. Code|37|1A|37-131.07|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a744-403",
+      "ptag": "section",
+      "cite": "\u00a7 44-403",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/44-403",
+      "doc_mpath": "D.C. Code|44|4|44-403|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a747-813",
+      "ptag": "section",
+      "cite": "\u00a7 47-813",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/47-813",
+      "doc_mpath": "D.C. Code|47|8|II|47-813|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a748-311",
+      "ptag": "section",
+      "cite": "\u00a7 48-311",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/48-311",
+      "doc_mpath": "D.C. Code|48|3A|48-311|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a748-312",
+      "ptag": "section",
+      "cite": "\u00a7 48-312",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/48-312",
+      "doc_mpath": "D.C. Code|48|3A|48-312|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a750-1301.02",
+      "ptag": "section",
+      "cite": "\u00a7 50-1301.02",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/50-1301.02",
+      "doc_mpath": "D.C. Code|50|13|I|50-1301.02|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a750-1301.34",
+      "ptag": "section",
+      "cite": "\u00a7 50-1301.34",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/50-1301.34",
+      "doc_mpath": "D.C. Code|50|13|V|50-1301.34|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a750-1301.35",
+      "ptag": "section",
+      "cite": "\u00a7 50-1301.35",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/50-1301.35",
+      "doc_mpath": "D.C. Code|50|13|V|50-1301.35|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a750-1301.36",
+      "ptag": "section",
+      "cite": "\u00a7 50-1301.36",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/50-1301.36",
+      "doc_mpath": "D.C. Code|50|13|V|50-1301.36|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": "Repealed"
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a750-1301.37",
+      "ptag": "section",
+      "cite": "\u00a7 50-1301.37",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/50-1301.37",
+      "doc_mpath": "D.C. Code|50|13|V|50-1301.37|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a750-1301.38",
+      "ptag": "section",
+      "cite": "\u00a7 50-1301.38",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/50-1301.38",
+      "doc_mpath": "D.C. Code|50|13|V|50-1301.38|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a750-2443",
+      "ptag": "section",
+      "cite": "\u00a7 50-2443",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/50-2443",
+      "doc_mpath": "D.C. Code|50|24A|II|50-2443|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a750-2444",
+      "ptag": "section",
+      "cite": "\u00a7 50-2444",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/50-2444",
+      "doc_mpath": "D.C. Code|50|24A|II|50-2444|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a750-921.02",
+      "ptag": "section",
+      "cite": "\u00a7 50-921.02",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/50-921.02",
+      "doc_mpath": "D.C. Code|50|9A|I|50-921.02|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a76-1451.01",
+      "ptag": "section",
+      "cite": "\u00a7 6-1451.01",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/6-1451.01",
+      "doc_mpath": "D.C. Code|6|14A|6-1451.01|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a76-1451.02",
+      "ptag": "section",
+      "cite": "\u00a7 6-1451.02",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/6-1451.02",
+      "doc_mpath": "D.C. Code|6|14A|6-1451.02|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a76-1453.01",
+      "ptag": "section",
+      "cite": "\u00a7 6-1453.01",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/6-1453.01",
+      "doc_mpath": "D.C. Code|6|14B|6-1453.01|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a77-742.21",
+      "ptag": "section",
+      "cite": "\u00a7 7-742.21",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/7-742.21",
+      "doc_mpath": "D.C. Code|7|7A|III-B|7-742.21|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a77-742.22",
+      "ptag": "section",
+      "cite": "\u00a7 7-742.22",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/7-742.22",
+      "doc_mpath": "D.C. Code|7|7A|III-B|7-742.22|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a78-651.02",
+      "ptag": "section",
+      "cite": "\u00a7 8-651.02",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/8-651.02",
+      "doc_mpath": "D.C. Code|8|6B|8-651.02|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a78-651.04",
+      "ptag": "section",
+      "cite": "\u00a7 8-651.04",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/8-651.04",
+      "doc_mpath": "D.C. Code|8|6B|8-651.04|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a78-651.04a",
+      "ptag": "section",
+      "cite": "\u00a7 8-651.04a",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/8-651.04a",
+      "doc_mpath": "D.C. Code|8|6B|8-651.04a|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a78-651.07",
+      "ptag": "section",
+      "cite": "\u00a7 8-651.07",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/8-651.07",
+      "doc_mpath": "D.C. Code|8|6B|8-651.07|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a79-204.01",
+      "ptag": "section",
+      "cite": "\u00a7 9-204.01",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/9-204.01",
+      "doc_mpath": "D.C. Code|9|2|IV|A|9-204.01|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-113",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-113",
+      "doc_mpath": "D.C. Law 26-113|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-113",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "\u00a7 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-113#\u00a72",
+      "doc_mpath": "D.C. Law 26-113|2|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-113",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "\u00a7 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-113#\u00a73",
+      "doc_mpath": "D.C. Law 26-113|3|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-113",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "\u00a7 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-113#\u00a74",
+      "doc_mpath": "D.C. Law 26-113|4|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-114",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-114",
+      "doc_mpath": "D.C. Law 26-114|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-114",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "\u00a7 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-114#\u00a72",
+      "doc_mpath": "D.C. Law 26-114|2|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-114",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "\u00a7 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-114#\u00a73",
+      "doc_mpath": "D.C. Law 26-114|3|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-114",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "\u00a7 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-114#\u00a74",
+      "doc_mpath": "D.C. Law 26-114|4|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-114",
+      "path": "\u00a75",
+      "ptag": "section",
+      "cite": "\u00a7 5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-114#\u00a75",
+      "doc_mpath": "D.C. Law 26-114|5|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-115",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-115",
+      "doc_mpath": "D.C. Law 26-115|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-115",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "\u00a7 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-115#\u00a72",
+      "doc_mpath": "D.C. Law 26-115|2|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-115",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "\u00a7 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-115#\u00a73",
+      "doc_mpath": "D.C. Law 26-115|3|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-115",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "\u00a7 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-115#\u00a74",
+      "doc_mpath": "D.C. Law 26-115|4|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-115",
+      "path": "\u00a75",
+      "ptag": "section",
+      "cite": "\u00a7 5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-115#\u00a75",
+      "doc_mpath": "D.C. Law 26-115|5|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-116",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-116",
+      "doc_mpath": "D.C. Law 26-116|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-116",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "\u00a7 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-116#\u00a72",
+      "doc_mpath": "D.C. Law 26-116|2|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-116",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "\u00a7 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-116#\u00a73",
+      "doc_mpath": "D.C. Law 26-116|3|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-116",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "\u00a7 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-116#\u00a74",
+      "doc_mpath": "D.C. Law 26-116|4|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-117",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-117",
+      "doc_mpath": "D.C. Law 26-117|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-117",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "\u00a7 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-117#\u00a72",
+      "doc_mpath": "D.C. Law 26-117|2|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-117",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "\u00a7 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-117#\u00a73",
+      "doc_mpath": "D.C. Law 26-117|3|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-117",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "\u00a7 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-117#\u00a74",
+      "doc_mpath": "D.C. Law 26-117|4|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-117",
+      "path": "\u00a75",
+      "ptag": "section",
+      "cite": "\u00a7 5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-117#\u00a75",
+      "doc_mpath": "D.C. Law 26-117|5|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-118",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-118",
+      "doc_mpath": "D.C. Law 26-118|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-118",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "\u00a7 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-118#\u00a72",
+      "doc_mpath": "D.C. Law 26-118|2|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-118",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "\u00a7 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-118#\u00a73",
+      "doc_mpath": "D.C. Law 26-118|3|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-118",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "\u00a7 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-118#\u00a74",
+      "doc_mpath": "D.C. Law 26-118|4|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-119",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-119",
+      "doc_mpath": "D.C. Law 26-119|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-119",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "\u00a7 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-119#\u00a72",
+      "doc_mpath": "D.C. Law 26-119|2|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-119",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "\u00a7 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-119#\u00a73",
+      "doc_mpath": "D.C. Law 26-119|3|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-119",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "\u00a7 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-119#\u00a74",
+      "doc_mpath": "D.C. Law 26-119|4|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-119",
+      "path": "\u00a75",
+      "ptag": "section",
+      "cite": "\u00a7 5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-119#\u00a75",
+      "doc_mpath": "D.C. Law 26-119|5|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-119",
+      "path": "\u00a76",
+      "ptag": "section",
+      "cite": "\u00a7 6",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-119#\u00a76",
+      "doc_mpath": "D.C. Law 26-119|6|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-120",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-120",
+      "doc_mpath": "D.C. Law 26-120|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-120",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "\u00a7 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-120#\u00a72",
+      "doc_mpath": "D.C. Law 26-120|2|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-120",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "\u00a7 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-120#\u00a73",
+      "doc_mpath": "D.C. Law 26-120|3|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-120",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "\u00a7 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-120#\u00a74",
+      "doc_mpath": "D.C. Law 26-120|4|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-121",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-121",
+      "doc_mpath": "D.C. Law 26-121|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-121",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "\u00a7 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-121#\u00a72",
+      "doc_mpath": "D.C. Law 26-121|2|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-121",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "\u00a7 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-121#\u00a73",
+      "doc_mpath": "D.C. Law 26-121|3|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-121",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "\u00a7 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-121#\u00a74",
+      "doc_mpath": "D.C. Law 26-121|4|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-122",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-122",
+      "doc_mpath": "D.C. Law 26-122|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-122",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "\u00a7 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-122#\u00a72",
+      "doc_mpath": "D.C. Law 26-122|2|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-122",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "\u00a7 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-122#\u00a73",
+      "doc_mpath": "D.C. Law 26-122|3|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-122",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "\u00a7 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-122#\u00a74",
+      "doc_mpath": "D.C. Law 26-122|4|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-123",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-123",
+      "doc_mpath": "D.C. Law 26-123|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-123",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "\u00a7 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-123#\u00a72",
+      "doc_mpath": "D.C. Law 26-123|2|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-123",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "\u00a7 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-123#\u00a73",
+      "doc_mpath": "D.C. Law 26-123|3|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-123",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "\u00a7 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-123#\u00a74",
+      "doc_mpath": "D.C. Law 26-123|4|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-123",
+      "path": "\u00a75",
+      "ptag": "section",
+      "cite": "\u00a7 5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/laws/26-123#\u00a75",
+      "doc_mpath": "D.C. Law 26-123|5|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|effective|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Law 26-27",
+      "path": "\u00a77",
+      "ptag": "section",
+      "cite": "\u00a7 7",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/laws/26-27#\u00a77",
+      "doc_mpath": "D.C. Law 26-27|7|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|permanent|effective|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-05-23",
+  "codified_date": "2026-05-27"
+}
