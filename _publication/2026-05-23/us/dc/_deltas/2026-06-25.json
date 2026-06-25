@@ -1,0 +1,163 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "pending",
+      "url": "/dclaws/26/temporary/pending",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "docs_changes": {
+        "D.C. Act 26-331": "Element added",
+        "D.C. Act 26-332": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "D.C. Act 26-331",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-331",
+      "doc_mpath": "D.C. Act 26-331|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-331",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "\u00a7 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-331#\u00a72",
+      "doc_mpath": "D.C. Act 26-331|2|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-331",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "\u00a7 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-331#\u00a73",
+      "doc_mpath": "D.C. Act 26-331|3|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-331",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "\u00a7 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-331#\u00a74",
+      "doc_mpath": "D.C. Act 26-331|4|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-331",
+      "path": "\u00a75",
+      "ptag": "section",
+      "cite": "\u00a7 5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-331#\u00a75",
+      "doc_mpath": "D.C. Act 26-331|5|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-331",
+      "path": "\u00a76",
+      "ptag": "section",
+      "cite": "\u00a7 6",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-331#\u00a76",
+      "doc_mpath": "D.C. Act 26-331|6|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-332",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-332",
+      "doc_mpath": "D.C. Act 26-332|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-332",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "\u00a7 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-332#\u00a72",
+      "doc_mpath": "D.C. Act 26-332|2|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-332",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "\u00a7 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-332#\u00a73",
+      "doc_mpath": "D.C. Act 26-332|3|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-332",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "\u00a7 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-332#\u00a74",
+      "doc_mpath": "D.C. Act 26-332|4|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|temporary|pending|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a71-1001.05",
+      "ptag": "section",
+      "cite": "\u00a7 1-1001.05",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/1-1001.05",
+      "doc_mpath": "D.C. Code|1|10|I|1-1001.05|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-05-23",
+  "codified_date": "2026-06-25"
+}
