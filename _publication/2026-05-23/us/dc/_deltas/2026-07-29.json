@@ -1,0 +1,190 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "budget",
+      "url": "/dclaws/26/budget",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|budget|",
+      "docs_changes": {
+        "D.C. Act 26-377": "Element added",
+        "D.C. Act 26-378": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "D.C. Act 26-377",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-377",
+      "doc_mpath": "D.C. Act 26-377|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|budget|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-377",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "\u00a7 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-377#\u00a72",
+      "doc_mpath": "D.C. Act 26-377|2|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|budget|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-377",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "\u00a7 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-377#\u00a73",
+      "doc_mpath": "D.C. Act 26-377|3|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|budget|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-377",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "\u00a7 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-377#\u00a74",
+      "doc_mpath": "D.C. Act 26-377|4|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|budget|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-377",
+      "path": "\u00a75",
+      "ptag": "section",
+      "cite": "\u00a7 5",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-377#\u00a75",
+      "doc_mpath": "D.C. Act 26-377|5|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|budget|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-377",
+      "path": "\u00a76",
+      "ptag": "section",
+      "cite": "\u00a7 6",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-377#\u00a76",
+      "doc_mpath": "D.C. Act 26-377|6|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|budget|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-377",
+      "path": "\u00a77",
+      "ptag": "section",
+      "cite": "\u00a7 7",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-377#\u00a77",
+      "doc_mpath": "D.C. Act 26-377|7|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|budget|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-377",
+      "path": "\u00a78",
+      "ptag": "section",
+      "cite": "\u00a7 8",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-377#\u00a78",
+      "doc_mpath": "D.C. Act 26-377|8|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|budget|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-378",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added",
+        "Element effective"
+      ],
+      "url": "/us/dc/council/acts/26-378",
+      "doc_mpath": "D.C. Act 26-378|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|budget|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-378",
+      "path": "\u00a72",
+      "ptag": "section",
+      "cite": "\u00a7 2",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-378#\u00a72",
+      "doc_mpath": "D.C. Act 26-378|2|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|budget|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-378",
+      "path": "\u00a73",
+      "ptag": "section",
+      "cite": "\u00a7 3",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-378#\u00a73",
+      "doc_mpath": "D.C. Act 26-378|3|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|budget|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Act 26-378",
+      "path": "\u00a74",
+      "ptag": "section",
+      "cite": "\u00a7 4",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/dc/council/acts/26-378#\u00a74",
+      "doc_mpath": "D.C. Act 26-378|4|",
+      "lib_mpath": "DCCouncil/law-rdf|dclaws|26|budget|",
+      "reason": null
+    },
+    {
+      "doc": "D.C. Code",
+      "path": "\u00a71-328.04",
+      "ptag": "section",
+      "cite": "\u00a7 1-328.04",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/dc/council/code/sections/1-328.04",
+      "doc_mpath": "D.C. Code|1|3|XII-A|A|1-328.04|",
+      "lib_mpath": "DCCouncil/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-05-23",
+  "codified_date": "2026-07-29"
+}
