@@ -1,0 +1,511 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-05-23</dcterms:available>
+    <dcterms:creator xml:lang="en">Council of the District of Columbia</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://lims.dccouncil.gov/downloads/LIMS/62240/Signed_Act/B26-0724-Signed_Act.pdf?Id=244265"/>
+    <dcterms:isVersionOf rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/us/dc/council/acts/26-416"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+TITLE I. GOVERNMENT DIRECTION AND SUPPORT
+TITLE II. ECONOMIC DEVELOPMENT AND REGULATION
+TITLE III. PUBLIC SAFETY AND JUSTICE
+TITLE IV. PUBLIC EDUCATION SYSTEM
+TITLE V. HUMAN SUPPORT SERVICES
+TITLE VI. OPERATIONS AND INFRASTRUCTURE
+TITLE VII. FINANCE AND REVENUE
+TITLE VIII. TECHNICAL CORRECTIONS
+TITLE IX. APPLICABILITY; FISCAL IMPACT; EFFECTIVE DATE
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">D.C. Act 26-416. Fiscal Year 2027 Budget Support Emergency Act of 2026.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2026-05-23/2026-11-12]: D.C. Act 26-416</rdfs:label>
+    <oll:codifiedDate>2026-11-12</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-08-13</oll:dateEffective>
+    <oll:docId>D.C. Act 26-416</oll:docId>
+    <oll:hasChanges rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77002">
+    <oll:cite xml:lang="en">§ 7002</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|A|7002|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7002</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77012">
+    <oll:cite xml:lang="en">§ 7012</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|B|7012|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7012</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77013">
+    <oll:cite xml:lang="en">§ 7013</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|B|7013|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7013</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77022">
+    <oll:cite xml:lang="en">§ 7022</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|C|7022|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7022</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77023">
+    <oll:cite xml:lang="en">§ 7023</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|C|7023|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7023</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77032">
+    <oll:cite xml:lang="en">§ 7032</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|D|7032|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7032</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77033">
+    <oll:cite xml:lang="en">§ 7033</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|D|7033|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7033</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77042">
+    <oll:cite xml:lang="en">§ 7042</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|E|7042|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7042</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77043">
+    <oll:cite xml:lang="en">§ 7043</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|E|7043|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7043</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77044">
+    <oll:cite xml:lang="en">§ 7044</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|E|7044|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7044</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77045">
+    <oll:cite xml:lang="en">§ 7045</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|E|7045|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7045</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77046">
+    <oll:cite xml:lang="en">§ 7046</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|E|7046|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7046</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77047">
+    <oll:cite xml:lang="en">§ 7047</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|E|7047|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7047</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77048">
+    <oll:cite xml:lang="en">§ 7048</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|E|7048|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7048</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77050">
+    <oll:cite xml:lang="en">§ 7050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|E|7050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77051">
+    <oll:cite xml:lang="en">§ 7051</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|E|7051|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7051</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77061">
+    <oll:cite xml:lang="en">§ 7061</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|F|7061|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7061</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77062">
+    <oll:cite xml:lang="en">§ 7062</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|F|7062|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7062</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77063">
+    <oll:cite xml:lang="en">§ 7063</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|F|7063|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7063</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77064">
+    <oll:cite xml:lang="en">§ 7064</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|F|7064|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7064</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77065">
+    <oll:cite xml:lang="en">§ 7065</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|F|7065|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7065</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77066">
+    <oll:cite xml:lang="en">§ 7066</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|F|7066|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7066</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77067">
+    <oll:cite xml:lang="en">§ 7067</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|F|7067|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7067</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77068">
+    <oll:cite xml:lang="en">§ 7068</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|F|7068|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7068</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77070">
+    <oll:cite xml:lang="en">§ 7070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|F|7070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77071">
+    <oll:cite xml:lang="en">§ 7071</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|F|7071|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7071</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77082">
+    <oll:cite xml:lang="en">§ 7082</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|G|7082|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7082</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77083">
+    <oll:cite xml:lang="en">§ 7083</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|G|7083|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7083</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77084">
+    <oll:cite xml:lang="en">§ 7084</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|G|7084|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7084</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77085">
+    <oll:cite xml:lang="en">§ 7085</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|G|7085|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7085</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77086">
+    <oll:cite xml:lang="en">§ 7086</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|G|7086|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7086</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77087">
+    <oll:cite xml:lang="en">§ 7087</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|G|7087|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7087</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77088">
+    <oll:cite xml:lang="en">§ 7088</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|G|7088|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7088</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77090">
+    <oll:cite xml:lang="en">§ 7090</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|G|7090|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7090</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77091">
+    <oll:cite xml:lang="en">§ 7091</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|G|7091|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7091</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77102">
+    <oll:cite xml:lang="en">§ 7102</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|H|7102|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7102</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77112">
+    <oll:cite xml:lang="en">§ 7112</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|I|7112|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7112</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77122">
+    <oll:cite xml:lang="en">§ 7122</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|J|7122|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7122</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77132">
+    <oll:cite xml:lang="en">§ 7132</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|K|7132|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7132</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77142">
+    <oll:cite xml:lang="en">§ 7142</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|L|7142|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7142</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77172">
+    <oll:cite xml:lang="en">§ 7172</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|O|7172|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7172</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77182">
+    <oll:cite xml:lang="en">§ 7182</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|P|7182|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7182</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77192">
+    <oll:cite xml:lang="en">§ 7192</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|Q|7192|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7192</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77193">
+    <oll:cite xml:lang="en">§ 7193</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|Q|7193|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7193</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77202">
+    <oll:cite xml:lang="en">§ 7202</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|R|7202|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7202</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77212">
+    <oll:cite xml:lang="en">§ 7212</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|S|7212|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7212</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77232">
+    <oll:cite xml:lang="en">§ 7232</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|U|7232|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7232</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77264">
+    <oll:cite xml:lang="en">§ 7264</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|W|7264|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7264</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77282">
+    <oll:cite xml:lang="en">§ 7282</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|X|7282|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7282</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77302">
+    <oll:cite xml:lang="en">§ 7302</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|Z|7302|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7302</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77312">
+    <oll:cite xml:lang="en">§ 7312</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VII|AA|7312|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§7312</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78002">
+    <oll:cite xml:lang="en">§ 8002</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VIII|A|8002|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§8002</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78003">
+    <oll:cite xml:lang="en">§ 8003</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VIII|A|8003|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§8003</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78004">
+    <oll:cite xml:lang="en">§ 8004</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VIII|A|8004|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§8004</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78005">
+    <oll:cite xml:lang="en">§ 8005</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VIII|A|8005|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§8005</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78006">
+    <oll:cite xml:lang="en">§ 8006</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VIII|A|8006|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§8006</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78007">
+    <oll:cite xml:lang="en">§ 8007</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VIII|A|8007|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§8007</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78009">
+    <oll:cite xml:lang="en">§ 8009</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VIII|A|8009|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§8009</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78010">
+    <oll:cite xml:lang="en">§ 8010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VIII|A|8010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§8010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78011">
+    <oll:cite xml:lang="en">§ 8011</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">D.C. Act 26-416|VIII|A|8011|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/dc/council/acts/26-416#§8011</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416/_changes">
+    <rdf:_10 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77044"/>
+    <rdf:_11 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77045"/>
+    <rdf:_12 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77046"/>
+    <rdf:_13 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77047"/>
+    <rdf:_14 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77048"/>
+    <rdf:_15 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77050"/>
+    <rdf:_16 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77051"/>
+    <rdf:_17 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77061"/>
+    <rdf:_18 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77062"/>
+    <rdf:_19 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77063"/>
+    <rdf:_1 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77002"/>
+    <rdf:_20 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77064"/>
+    <rdf:_21 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77065"/>
+    <rdf:_22 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77066"/>
+    <rdf:_23 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77067"/>
+    <rdf:_24 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77068"/>
+    <rdf:_25 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77070"/>
+    <rdf:_26 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77071"/>
+    <rdf:_27 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77082"/>
+    <rdf:_28 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77083"/>
+    <rdf:_29 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77084"/>
+    <rdf:_2 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77012"/>
+    <rdf:_30 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77085"/>
+    <rdf:_31 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77086"/>
+    <rdf:_32 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77087"/>
+    <rdf:_33 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77088"/>
+    <rdf:_34 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77090"/>
+    <rdf:_35 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77091"/>
+    <rdf:_36 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77102"/>
+    <rdf:_37 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77112"/>
+    <rdf:_38 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77122"/>
+    <rdf:_39 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77132"/>
+    <rdf:_3 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77013"/>
+    <rdf:_40 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77142"/>
+    <rdf:_41 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77172"/>
+    <rdf:_42 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77182"/>
+    <rdf:_43 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77192"/>
+    <rdf:_44 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77193"/>
+    <rdf:_45 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77202"/>
+    <rdf:_46 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77212"/>
+    <rdf:_47 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77232"/>
+    <rdf:_48 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77264"/>
+    <rdf:_49 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77282"/>
+    <rdf:_4 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77022"/>
+    <rdf:_50 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77302"/>
+    <rdf:_51 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77312"/>
+    <rdf:_52 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78002"/>
+    <rdf:_53 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78003"/>
+    <rdf:_54 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78004"/>
+    <rdf:_55 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78005"/>
+    <rdf:_56 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78006"/>
+    <rdf:_57 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78007"/>
+    <rdf:_58 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78009"/>
+    <rdf:_59 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78010"/>
+    <rdf:_5 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77023"/>
+    <rdf:_60 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A78011"/>
+    <rdf:_6 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77032"/>
+    <rdf:_7 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77033"/>
+    <rdf:_8 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77042"/>
+    <rdf:_9 rdf:resource="https://code.dccouncil.gov/_publication/2026-05-23/_date/2026-11-12/us/dc/council/acts/26-416#%C2%A77043"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
